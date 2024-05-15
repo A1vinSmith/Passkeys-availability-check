@@ -1,6 +1,6 @@
 
-| Types         	| Providers                   | Passkey/MFA Availability |
-|-----------------|-----------------------------|--------------------------|
+| Types         	| Providers                   | Passkey Availability                                  |
+|-----------------|-----------------------------|-------------------------------------------------------|
 | **Big Brother** | Google            					| All platforms, multiple passkeys available            |
 |                 | Microsoft         					| All platforms, multiple passkeys available            |
 |                 | Amazon            					| All platforms, multiple passkeys available            |
