@@ -13,7 +13,7 @@
 | **HackerLabs**  | HackThebox     							| Not supported yet																			|
 | 							  | TryHackme     							| Not supported yet																			|
 | **Git**      		| GitHub     									| All platforms, multiple passkeys available            |
-| 			      		| GitLab     									| TO-DO            																			|
+| 			      		| GitLab     									| Not supported yet           																			|
 | **Insurance**   | Most of them   							| Not supported yet   (TO-DO)														|
 | **Bank**        | Most of them  							| Not supported yet, but some has built-in MFA (TO-DO)  |
 | **Game**        | Nintendo 										| All platforms, multiple passkeys available        		|
