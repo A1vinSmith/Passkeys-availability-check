@@ -30,3 +30,6 @@ You can save multiple passkeys for different platforms using various tools. For 
 On mobile, iOS will prompt you to choose which one you want to use each time. 
 
 On a desktop browser, the Bitwarden popup appears first; close it, then the ProtonPass popup appears, and finally, the Apple passkey prompt appears last.
+
+# TO-DO
+1. Sort them alphabetically
