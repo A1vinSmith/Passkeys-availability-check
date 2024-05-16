@@ -8,6 +8,7 @@
 | **Elon Musk**   | PayPal (partially)					| Browser login MFA needed after passkey                |
 |                 | Twitter (setup at app only)	| All platforms, Single passkey available 							|
 | **Social Media**| Whatsapp (U.S. only)				| Regions limited               												|
+|                 | Linkedin 				   					| Roll-out Period                                       |
 |                 | Facebook 				   					| All platforms (physical or external key only)         |
 |                 | Telegram 				   					| Not supported yet                                     |
 |                 | Discord (as extra layer)		| All platforms, multiple passkeys available after pass |
