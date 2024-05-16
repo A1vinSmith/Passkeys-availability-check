@@ -9,12 +9,13 @@
 |                 | Twitter (setup at app only)	| All platforms, Single passkey available 							|
 | **Social Media**| Whatsapp (U.S. only)				| Regions limited               												|
 |                 | Telegram 				   					| Not supported yet                                     |
+|                 | Discord (as extra layer)		| All platforms, multiple passkeys available after pass |
 | **HackerLabs**  | HackThebox     							| Not supported yet																			|
 | 							  | TryHackme     							| Not supported yet																			|
 | **Git**      		| GitHub     									| All platforms, multiple passkeys available            |
 | 			      		| GitLab     									| TO-DO            																			|
 | **Insurance**   | Most of them   							| Not supported yet   (TO-DO)														|
-| **Bank**        | Most of them  							| Not supported yet   (TO-DO)	                   				|
+| **Bank**        | Most of them  							| Not supported yet, but some has built-in MFA (TO-DO)  |
 | **Game**        | Nintendo 										| All platforms, multiple passkeys available        		|
 |                 | Blizzard 										| No passkey support, but built-in app MFA							|
 |                 | Steam	  										| No passkey support, but built-in app MFA							|
