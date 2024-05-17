@@ -23,6 +23,7 @@
 |                 | Blizzard 										| No passkey support, but built-in app MFA							|
 |                 | Steam	  										| No passkey support, but built-in app MFA							|
 |                 | Epic Games									| Not supported yet                                  		|
+|                 | Ubisoft    									| Not supported yet                                  		|
 | **Email**       | Proton 											| All platforms, multiple passkeys available         		|
 | **Stream**      | Twitch     									| Not supported yet                    									|
 
