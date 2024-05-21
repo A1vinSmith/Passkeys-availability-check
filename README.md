@@ -6,7 +6,7 @@
 |                 | Amazon            					| All platforms, multiple passkeys available            |
 |        					| Apple     									| All platforms (physical key only, YubiKey)          	|
 | **Elon Musk**   | PayPal (partially)					| Browser login MFA needed after passkey                |
-|                 | Twitter (setup at app only)	| All platforms, Single passkey available 							|
+|                 | Twitter                   	| All platforms, multiple passkeys available  					|
 | **Cloud Drive** | MEGA     							      | Not supported yet																			|
 | **Social Media**| Whatsapp (U.S. only)				| Regions limited               												|
 |                 | Linkedin 				   					| Roll-out Period                                       |
