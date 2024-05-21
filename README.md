@@ -7,7 +7,7 @@
 |        					| Apple     									| All platforms (physical key only, YubiKey)          	|
 | **Elon Musk**   | PayPal (partially)					| Browser login MFA needed after passkey                |
 |                 | Twitter                   	| All platforms, multiple passkeys for password manager;|
-|                 | Twitter                     |  Keychains on the Apple device not acceptable, it     |
+|                 | Twitter                     | Tho, Keychains on the Apple device not acceptable, it |
 |                 | Twitter                     |    has to be the physical key.					              |
 | **Cloud Drive** | MEGA     							      | Not supported yet																			|
 | **Social Media**| Whatsapp (U.S. only)				| Regions limited               												|
