@@ -36,5 +36,7 @@ On mobile, iOS will prompt you to choose which one you want to use each time.
 
 On a desktop browser, the Bitwarden popup appears first; close it, then the ProtonPass popup appears, and finally, the Apple passkey prompt appears last.
 
+Time to redundant the MFA! Especially those who have been compromised. e.g. https://news.trendmicro.com/2024/07/10/twilio-authy-data-breach/
+
 # TO-DO
 1. Sort them alphabetically
