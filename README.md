@@ -11,10 +11,10 @@
 |                 | Twitter                     | It has to be the physical key to store in it .				|
 | **Cloud Drive** | MEGA     							      | Not supported yet																			|
 | **Social Media**| Whatsapp (U.S. only)				| Regions limited               												|
-|                 | Linkedin 				   					| Roll-out Period                                       |
+|                 | Linkedin 				   					| Roll-out Period as Sep 2024                           |
 |                 | Facebook 				   					| All platforms (physical or external key only)         |
 |                 | Telegram 				   					| Not supported yet                                     |
-|                 | Discord (as extra layer)		| All platforms, multiple passkeys available after pass |
+|                 | Discord (Recent Update)		  | All platforms, multiple passkeys available            |
 | **HackerLabs**  | HackThebox     							| Not supported yet																			|
 | 							  | TryHackme     							| Not supported yet																			|
 | **Git**      		| GitHub     									| All platforms, multiple passkeys available            |
