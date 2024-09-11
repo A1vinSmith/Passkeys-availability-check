@@ -15,6 +15,7 @@
 |                 | Facebook 				   					| All platforms (physical or external key only)         |
 |                 | Telegram 				   					| Not supported yet                                     |
 |                 | Discord (Recent Update)		  | All platforms, multiple passkeys available            |
+|                 | Discord (Recent Update)		  | Android app may having issues with password manager   |
 | **HackerLabs**  | HackThebox     							| Not supported yet																			|
 | 							  | TryHackme     							| Not supported yet																			|
 | **Git**      		| GitHub     									| All platforms, multiple passkeys available            |
